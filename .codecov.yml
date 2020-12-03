@@ -1,0 +1,13 @@
+codecov:
+  branch: master
+
+coverage:
+  range: "50..90"
+  status:
+    project: off
+    patch:
+      default:
+        target: 50%
+        threshold: 50%
+        branches:
+          - master
