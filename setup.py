@@ -34,7 +34,6 @@ setup(
         'Framework :: AsyncIO',
         'Intended Audience :: Developers',
         'Intended Audience :: System Administrators',
-        'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
@@ -43,7 +42,7 @@ setup(
         'Operating System :: OS Independent'
     ),
     install_requires=[
-        'botapi==1.1.0',
+        'botapi>=1.1.0',
     ],
     extras_require={
         'bot': [

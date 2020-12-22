@@ -48,12 +48,14 @@ Installation
 
 Requirements
 ------------
-- Python_ >= 3.6
+- BotAPI_ >= 1.1.1
+- Python_ >= 3.7
 
 *Optional:*
 
 - aiohttp_ (for async viber bot)
 
+.. _BotAPI: https://github.com/EdiBoba/botapi
 .. _Python: https://www.python.org/
 .. _aiohttp: https://github.com/aio-libs/aiohttp
 
